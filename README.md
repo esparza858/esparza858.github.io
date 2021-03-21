@@ -2,7 +2,8 @@
 <head>
 <meta charset="utf-8">
 <title>Kristopher Esparza</title>
-<link href="http://fonts.googleapis.com/css?family=Marko+One" rel="stylesheet">
+<link href='http://fonts.googleapis.com/css?family=Marko+One' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="style.css" > 
 </head>
 <body>
 <h1>About</h1>
