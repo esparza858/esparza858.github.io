@@ -6,8 +6,8 @@ body {
 }
 
 /* link styles */
-a:link, a:visited { color: #FF0000; }
-a:focus, a:hover, a:active { color: #FF0000; }
+a:link, a:visited { color: #FFFFFF; }
+a:focus, a:hover, a:active { color: #FFFFFF; }
 
 
 /* header styles */
