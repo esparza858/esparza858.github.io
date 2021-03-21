@@ -6,15 +6,6 @@
 <link href="http://fonts.googleapis.com/css?family=Marko+One" rel="stylesheet">
 </style>
 </head>
-  body {
-	font-family: Verdana, sans-serif;
-	font-size: 100%;
-	}
-  h1 {
-	font-family: "Marko One", Georgia, serif;
-	}
-</style>
-</head>
 <body>
 <h1>About</h1>
 <p> My name is Kristopher Esparza and I was born and raised in the small town of Fremont Ohio. I am coming up on 10 years in the Air Force and have seen many different places. Currently, I am deployed and my home station is in 
