@@ -1,10 +1,8 @@
-<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
 <title>Kristopher Esparza</title>
 <link href="http://fonts.googleapis.com/css?family=Marko+One" rel="stylesheet">
-</style>
 </head>
 <body>
 <h1>About</h1>
